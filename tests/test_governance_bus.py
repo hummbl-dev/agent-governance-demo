@@ -1,7 +1,5 @@
 """Tests for the append-only governance bus."""
 
-import pytest
-from pathlib import Path
 from agent_governance.governance_bus import GovernanceBus
 
 
