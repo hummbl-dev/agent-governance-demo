@@ -82,7 +82,7 @@ The integration test tells a complete story: agent starts, executes tasks succes
 
 ## Background
 
-Built by [Reuben Bowlby](https://github.com/rpbowlby) as part of [HUMMBL](https://hummbl.io)'s AI governance platform. The production version ([`pip install hummbl-governance`](https://pypi.org/project/hummbl-governance/)) has 583 tests across 20 modules. This repo is a clean-room demonstration of the core patterns.
+Built by [Reuben Bowlby](https://github.com/hummbl-dev) as part of [HUMMBL](https://hummbl.io)'s AI governance platform. The production version ([`pip install hummbl-governance`](https://pypi.org/project/hummbl-governance/)) has 583 tests across 20 modules. This repo is a clean-room demonstration of the core patterns.
 
 For the formal governance primitive underlying these mitigations, see [The Governance Tuple](https://doi.org/10.5281/zenodo.19646940) (Bowlby, 2026).
 
